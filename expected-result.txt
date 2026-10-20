@@ -1,0 +1,15 @@
+{
+  "team_id": "platform",
+  "metrics": {
+    "merged_prs": 1,
+    "average_pr_cycle_time_hours": 24.0,
+    "deployments": 1,
+    "incidents": 1
+  },
+  "insight": {
+    "summary": "The team merged one pull request with an average cycle time of 24 hours.",
+    "recommendations": [
+      "Continue monitoring pull request cycle time."
+    ]
+  }
+}
